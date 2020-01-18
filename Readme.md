@@ -1,4 +1,4 @@
-# Maritime Examples
+![Maritime NodeJS Web Framework Logo](https://i.imgur.com/psmyh0O.png)
 
 A set of applications written using the [Maritime](https://github.com/t0mgithub/maritime) web framework for NodeJS to show various functionalities.
 
