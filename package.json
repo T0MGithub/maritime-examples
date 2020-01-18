@@ -1,0 +1,12 @@
+{
+  "name": "maritime-examples",
+  "version": "0.0.1",
+  "description": "A sample of examples utilising the Maritime framework to showcase various functionality.",
+  "repository": "t0mgithub/maritime-examples",
+  "homepage": "https://github.com/t0mgithub/maritime-examples#readme",
+  "scripts": {
+    "format": "prettier --write {**,**/**}/*.{js,md}"
+  },
+  "author": "Tom",
+  "license": "MIT"
+}
