@@ -2,7 +2,7 @@
 
 A set of applications written using the [Maritime](https://github.com/t0mgithub/maritime) web framework and 0 other dependancies for NodeJS to showcase various functionalities built into Maritime.
 
-![Maritime Examples Dependencies Count Badge](https://img.shields.io/badge/dependencies-0-red)
+![Maritime Examples Dependencies Count Badge](https://img.shields.io/badge/dependencies-0-success)
 [![Maritime Examples License Badge](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Powered by Maritime Badge](https://img.shields.io/badge/powered%20by-maritime-red)](https://github.com/t0mgithub/maritime)
 
