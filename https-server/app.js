@@ -8,7 +8,7 @@ router.get("*", data => {
 
 app.mount(router);
 
-// either files paths or the read file data can be passed
+// either the file's path or the read file data can be passed
 // in the key and cert options
 const serverOptions = {
   https: true,
