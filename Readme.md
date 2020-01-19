@@ -12,3 +12,4 @@ A set of applications written using the [Maritime](https://github.com/t0mgithub/
 - [Get Query Parameters](/get-query-parameters) - Example application showing how to access query parameters.
 - [Send File](/send-file) - Example application to send a HTML file.
 - [Static Serve](/static-serve) - Static serve shows how to serve static files from a specific folder.
+- [Cookies](/cookies) - Example showing how to set and read cookies.
