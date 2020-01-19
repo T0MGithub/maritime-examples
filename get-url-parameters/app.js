@@ -3,7 +3,7 @@ const app = new Maritime();
 const router = new Maritime.router();
 
 router.get("/", data => {
-  data.res.redirect("/example name");
+  data.res.redirect("/example-name");
 });
 
 // visit /{ YOUR NAME } to display your name
