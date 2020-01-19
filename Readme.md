@@ -13,3 +13,4 @@ A set of applications written using the [Maritime](https://github.com/t0mgithub/
 - [Send File](/send-file) - Example application to send a HTML file.
 - [Static Serve](/static-serve) - Static serve shows how to serve static files from a specific folder.
 - [Cookies](/cookies) - Example showing how to set and read cookies.
+- [HTTPS Server](/https-server) - Example showing how to setup a secure HTTPS server within Maritime.
