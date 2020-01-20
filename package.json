@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "maritime": "0.0.2"
   }
 }
