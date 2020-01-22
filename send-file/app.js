@@ -3,7 +3,7 @@ const app = new Maritime();
 const router = new Maritime.router();
 
 router.get("*", data => {
-  data.res.sendFile("./index.html");
+  data.res.sendFile(__dirname + "/index.html");
 });
 
 app.mount(router);
