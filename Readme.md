@@ -16,3 +16,4 @@ A set of applications written using the [Maritime](https://github.com/t0mgithub/
 - [Cookies](/cookies) - Example showing how to set and read cookies.
 - [HTTPS Server](/https-server) - Example showing how to setup a secure HTTPS server within Maritime.
 - [Render Templates](/render-template) - Example showing how to render a template (using a template engine such as EJS) and send it to the client.
+- [Client Download](/client-download-file) - Example showing how to make the client download a file.
