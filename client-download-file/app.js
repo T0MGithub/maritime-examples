@@ -7,7 +7,7 @@ router.get("/", function(data) {
 });
 
 router.get("/download", function(data) {
-  data.res.download("./download.txt");
+  data.res.download(__dirname + "/download.txt");
 });
 
 app.mount(router);
