@@ -15,3 +15,4 @@ A set of applications written using the [Maritime](https://github.com/t0mgithub/
 - [Static Serve](/static-serve) - Static serve shows how to serve static files from a specific folder.
 - [Cookies](/cookies) - Example showing how to set and read cookies.
 - [HTTPS Server](/https-server) - Example showing how to setup a secure HTTPS server within Maritime.
+- [Render Templates](/render-template) - Example showing how to render a template (using a template engine such as EJS) and send it to the client.
