@@ -2,6 +2,9 @@ const Maritime = require("maritime");
 const app = new Maritime();
 const router = new Maritime.router();
 
+// add base directory for commands such as .sendFile()
+app.set("static-folder", __dirname);
+
 // all non-route URL paths will lookup in this directory
 // for example, if /css.css is looked requested, the file
 // will be served from the __dirname+/assets folder, so
@@ -9,7 +12,7 @@ const router = new Maritime.router();
 app.use(Maritime.static(__dirname + "/assets"));
 
 router.get("/", data => {
-  data.res.send("./index.html");
+  data.res.sendFile("./index.html");
 });
 
 app.mount(router);

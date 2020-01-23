@@ -2,6 +2,7 @@ const Maritime = require("maritime");
 const app = new Maritime();
 const router = new Maritime.router();
 
+// add base directory for commands such as .sendFile()
 app.set("static-folder", __dirname);
 
 router.get("*", data => {
