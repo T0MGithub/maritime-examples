@@ -2,8 +2,10 @@ const Maritime = require("maritime");
 const app = new Maritime();
 const router = new Maritime.router();
 
+app.set("static-folder", __dirname);
+
 router.get("*", data => {
-  data.res.sendFile(__dirname + "/index.html");
+  data.res.sendFile("./index.html");
 });
 
 app.mount(router);
