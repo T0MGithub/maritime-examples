@@ -13,6 +13,6 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
-    "maritime": "^0.2.0"
+    "maritime": "^0.2.1"
   }
 }
