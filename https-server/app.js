@@ -12,8 +12,8 @@ app.mount(router);
 // in the key and cert options
 const serverOptions = {
   https: true,
-  key: "./key.pem",
-  cert: "./cert.pem"
+  key: __dirname + "/privatekey.pem",
+  cert: __dirname + "/certificate.pem"
 };
 app.listen(3000, serverOptions, function() {
   console.log("Secure server started on port 3000");
