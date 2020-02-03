@@ -1,10 +1,10 @@
 # Maritime Examples
 
-A set of applications written using the [Maritime](https://github.com/t0mgithub/maritime) web framework and 0 other dependencies for NodeJS to showcase various functionalities built into Maritime.
+A set of applications written using the [Maritime](https://github.com/TomPrograms/maritime) web framework and 0 other dependencies for NodeJS to showcase various functionalities built into Maritime.
 
 ![Maritime Examples Dependencies Count Badge](https://img.shields.io/badge/dependencies-1-success)
 [![Maritime Examples License Badge](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Powered by Maritime Badge](https://img.shields.io/badge/powered%20by-maritime-red)](https://github.com/t0mgithub/maritime)
+[![Powered by Maritime Badge](https://img.shields.io/badge/powered%20by-maritime-red)](https://github.com/TomPrograms/maritime)
 
 ## Examples Included
 
